@@ -1,0 +1,70 @@
+body{
+  font-family: sans-serif;
+  background-color: rgb(52, 152, 219);
+}
+form{
+  width: 300px;
+  height: auto;
+  text-align: center;
+  margin:50px auto;
+  padding:20px;
+  background-color: rgba(255, 255, 255, 0.97);
+  border-radius: 3px;
+}
+.input{
+  width: 250px;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 3px;
+}
+.input input[type="text"], input[type="password"]{
+  width: 200px;
+  height: 30px;
+  border-radius: 2px;
+  border: none;
+  padding: 7px;
+  margin-bottom: 20px;
+  background-color: rgba(166, 166, 166, 0.32);
+  outline: none;
+}
+.input input[type="text"]:hover, input[type="password"]:hover{
+  box-shadow: inset 300px 0px 0px rgba(0, 0, 0, 0.21);
+  -moz-transition:box-shadow .5s ease;
+  -webkit-transition:box-shadow .5s ease;
+  -o-transition:box-shadow .5s ease;
+  -ms-transition:box-shadow .5s ease;
+}
+.input input[type="submit"]{
+  width: 200px;
+  height: 35px;
+  outline: none;
+  border-radius: 4px;
+  border: none;
+  background-color: rgba(1, 134, 209, 0.78);
+}
+.input input[type="submit"]:hover{
+  background-color: rgba(1, 134, 209, 1);
+  transition: 1s ease;
+}
+a{
+  cursor: pointer;
+}
+textarea{
+  width: 200px;
+  max-width: 200px;
+  height: 70px;
+  max-height: 70px;
+  border-radius: 2px;
+  border: none;
+  padding: 7px;
+  margin-bottom: 20px;
+  background-color: rgba(166, 166, 166, 0.32);
+  outline: none;
+}
+textarea:hover{
+  box-shadow: inset 300px 0px 0px rgba(0, 0, 0, 0.21);
+  -moz-transition:box-shadow .5s ease;
+  -webkit-transition:box-shadow .5s ease;
+  -o-transition:box-shadow .5s ease;
+  -ms-transition:box-shadow .5s ease;
+}
