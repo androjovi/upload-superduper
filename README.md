@@ -7,5 +7,8 @@
 <li>Edit profile</li>
 Penambahan otomatis setiap link yang kamu upload di akun mu</li>
 </ul>
+* Masih banyak kode yang berantakan 
+* Tampilan yang jelek
+* Beberapa proses saya taruh di lib.php
 
 
