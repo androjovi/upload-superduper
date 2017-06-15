@@ -1,2 +1,11 @@
 # upload-superduper
-Anda bisa mengupload sebuah link di aplikasi ini
+<h3>Project web yang bisa melakukan upload link</h3>
+<p>Fitur </p>
+<ul>
+<li>Login logout</li>
+<li>Upload 'Hanya sebatas text</li>
+<li>Edit profile</li>
+Penambahan otomatis setiap link yang kamu upload di akun mu</li>
+</ul>
+
+
