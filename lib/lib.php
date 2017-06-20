@@ -85,21 +85,21 @@ function profileLoginTrue(){
   <blockquote style='margin:7px;'>
   <p>{$getInfoUser['motivasi']}</p>
   <footer>By : {$getInfoUser['nama']}</footer>
-</blockquote>
+  </blockquote>
   <div class='panel-body'>
   <div class='page-header'>
-<h2> {$getInfoUser['nama']} <small>{$getInfoUser['username']}</small></h2>
-<p>Nama lengkap</p>
-<b><p>{$getInfoUser['nama']}</p></b>
-<p>Username</p>
-<b><p>{$getInfoUser['username']}</p></b>
-<p>Jenis kelamin</p>
-<b><p>{$getInfoUser['jenis_kelamin']}</p></b>
-<p>Alamat</p>
-<b><p>{$getInfoUser['alamat']}</p></b>
-<p>Jumlah kontribusi</p>
-<b><p>{$getInfoUser['jumlah']}</p></b>
-</div>
+  <h2> {$getInfoUser['nama']} <small>{$getInfoUser['username']}</small></h2>
+  <p>Nama lengkap</p>
+  <b><p>{$getInfoUser['nama']}</p></b>
+  <p>Username</p>
+  <b><p>{$getInfoUser['username']}</p></b>
+  <p>Jenis kelamin</p>
+  <b><p>{$getInfoUser['jenis_kelamin']}</p></b>
+  <p>Alamat</p>
+  <b><p>{$getInfoUser['alamat']}</p></b>
+  <p>Jumlah kontribusi</p>
+  <b><p>{$getInfoUser['jumlah']}</p></b>
+  </div>
   </div>
   </div>
   <table class='table table-condensed'>
@@ -131,21 +131,21 @@ function profileLoginFalse(){
   <blockquote style='margin:7px;'>
   <p>{$getInfoUser['motivasi']}</p>
   <footer>By : {$getInfoUser['nama']}</footer>
-</blockquote>
+  </blockquote>
   <div class='panel-body'>
   <div class='page-header'>
-<h2> {$getInfoUser['nama']} <small>{$getInfoUser['username']}</small></h2>
-<p>Nama lengkap</p>
-<b><p>{$getInfoUser['nama']}</p></b>
-<p>Username</p>
-<b><p>{$getInfoUser['username']}</p></b>
-<p>Jenis kelamin</p>
-<b><p>{$getInfoUser['jenis_kelamin']}</p></b>
-<p>Alamat</p>
-<b><p>{$getInfoUser['alamat']}</p></b>
-<p>Jumlah kontribusi</p>
-<b><p>{$getInfoUser['jumlah']}</p></b>
-</div>
+  <h2> {$getInfoUser['nama']} <small>{$getInfoUser['username']}</small></h2>
+  <p>Nama lengkap</p>
+  <b><p>{$getInfoUser['nama']}</p></b>
+  <p>Username</p>
+  <b><p>{$getInfoUser['username']}</p></b>
+  <p>Jenis kelamin</p>
+  <b><p>{$getInfoUser['jenis_kelamin']}</p></b>
+  <p>Alamat</p>
+  <b><p>{$getInfoUser['alamat']}</p></b>
+  <p>Jumlah kontribusi</p>
+  <b><p>{$getInfoUser['jumlah']}</p></b>
+  </div>
   </div>
   </div>
   <table class='table table-condensed'>
